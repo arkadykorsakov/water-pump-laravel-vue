@@ -9,7 +9,7 @@
 ## Установка
 
 ```
-1. git clone https://github.com/arkadykorsakov/wizard.git
+1. git clone https://github.com/arkadykorsakov/wizard.git](https://github.com/arkadykorsakov/water_pump.git
 2. cd wizard
 3. composer install
 4. php artisan migrate --seed
